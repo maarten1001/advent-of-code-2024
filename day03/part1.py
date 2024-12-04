@@ -1,5 +1,6 @@
 import re
 
+
 def process_input():
     with open("input.txt") as f:
         return f.read()
